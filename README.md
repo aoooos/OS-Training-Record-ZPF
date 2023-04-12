@@ -7,4 +7,4 @@ Roughly read through *The Rust Programming language* and finish the [*rustlings*
 
 ## Stage 2 
 ### from April 12th to April 18th(expected)
-Learn RISCV and continue to do some rust practices like [32 Rust Quizes](https://dtolnay.github.io/rust-quiz/1) and [exercisms.io 快速练习(88+道题目的中文详细描述)](http://llever.com/exercism-rust-zh/index.html).
+Learn rCore and continue to do some rust practices like [32 Rust Quizes](https://dtolnay.github.io/rust-quiz/1) and [exercisms.io 快速练习(88+道题目的中文详细描述)](http://llever.com/exercism-rust-zh/index.html).
