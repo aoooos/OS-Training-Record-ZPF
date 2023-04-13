@@ -3,7 +3,7 @@ A record of learning progress of OS
 
 ## Stage 1 
 ### from March 30th to April 11th
-Roughly read through *The Rust Programming language* and finish the [*rustlings*](https://github.com/LearningOS/rust-rustlings-jtzhpf).
+Roughly read through *The Rust Programming language* and finish the [rustlings](https://github.com/LearningOS/rust-rustlings-jtzhpf).
 
 ## Stage 2 
 ### from April 12th to April 25th(expected)
